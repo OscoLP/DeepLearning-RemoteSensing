@@ -5,9 +5,7 @@ Here, we intend to publish easy-to-implement deep neural network codes. These co
 
 Machine learning (ML) and deep neural networks (DNN) are currently being used in a series of applications. In the remote sensing field domain, this type of analysis has been explored in several issues, being it both in spectral, image, photogrammetry, among others, subfields. One of the most important characteristics of the machine and deep learning algorithms in remote sensing data is its capability of dealing with different types of examples, achieving impressive performances, and being useful in generalization approaches.
 
-Figure - Example of a Deep Neural Network structure.
-
-![Figure_DNN](https://user-images.githubusercontent.com/74935945/112157409-f038bb00-8bc5-11eb-86d0-b6a2933d2243.png)
+<img src="https://user-images.githubusercontent.com/74935945/112157409-f038bb00-8bc5-11eb-86d0-b6a2933d2243.png" width="840" height="400">
 
 Source: Osco et al. (2021), https://arxiv.org/abs/2101.10861
 
@@ -21,14 +19,13 @@ This code is written to be applied in one-dimensional datasets, with both binary
 
 Figure - Example of a spectral behavior of plants submitted to different insect attacks.
 
-<img src="https://user-images.githubusercontent.com/74935945/112156753-4eb16980-8bc5-11eb-8717-4e8fd0b4a65d.png" width="720" height="480">
+<img src="https://user-images.githubusercontent.com/74935945/112156753-4eb16980-8bc5-11eb-8717-4e8fd0b4a65d.png" width="380" height="240">
 
 Source: Furuya et al. (2021), https://www.preprints.org/manuscript/202102.0498/v1
 
 Figure - Example of machine learning algorithms performance from multiple repetitions of training/validation splits.
 
-<img src="https://user-images.githubusercontent.com/74935945/112159245-b2d52d00-8bc7-11eb-9320-d89dadf81863.png" width="640" height="480">
-
+<img src="https://user-images.githubusercontent.com/74935945/112159245-b2d52d00-8bc7-11eb-9320-d89dadf81863.png" width="320" height="240">
 Source: Gomez et al. (2021), https://www.preprints.org/manuscript/202102.0516/v1
 
 ## Deep Neural Network (DNN_Example.ipynb)
