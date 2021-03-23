@@ -38,6 +38,8 @@ https://github.com/OscoLP/DeepLearning-RemoteSensing/blob/main/DNN_Example.ipynb
 
 ## One-Dimensional Convolutional Neural Network (1DCNN_Example.ipynb)
 
+https://github.com/OscoLP/DeepLearning-RemoteSensing/blob/main/CNN_1D_Example.ipynb
+
 ...
 
 ###### Disclaimer: This repository is currently under construction and will only be fully-available once a publication of its content is released. Until there, expect constant modifications.
