@@ -32,7 +32,7 @@ Source: Gomez et al. (2021), https://www.preprints.org/manuscript/202102.0516/v1
 
 ## Deep Neural Network (DNN_Example.ipynb)
 
-
+https://github.com/OscoLP/DeepLearning-RemoteSensing/blob/main/DNN_Example.ipynb
 
 ...
 
