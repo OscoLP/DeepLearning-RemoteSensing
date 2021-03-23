@@ -42,18 +42,19 @@ https://github.com/OscoLP/DeepLearning-RemoteSensing/blob/main/CNN_1D_Example.ip
 
 ...
 
-# How to Cite
+
+###### Disclaimer: This repository is currently under construction and will only be fully-available once a publication of its content is released. Until there, expect constant modifications.
+
+## How to Cite
 
 bibTex:
 @misc{Osco2021GitHub,
-  author = {Osco, L.P., Marques Ramos, A.P.},
+  author = {Osco, L.P., Marques Ramos, A.P.},  
   title = {Machine and Deep Learning for Remote Sensing Data},
   year = {2021},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/OscoLP/DeepLearning-RemoteSensing}},
+  howpublished = {\url{https://github.com/OscoLP/DeepLearning-RemoteSensing}}
 }
 
 Osco, L.P.; Marques Ramos, A.P. Machine and Deep Learning for Remote Sensing Data. GitHub, GitHub repository, 2021. https://github.com/OscoLP/DeepLearning-RemoteSensing
-
-###### Disclaimer: This repository is currently under construction and will only be fully-available once a publication of its content is released. Until there, expect constant modifications.
