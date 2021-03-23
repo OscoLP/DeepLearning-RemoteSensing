@@ -37,7 +37,7 @@ Source: Gomez et al. (2021), https://www.preprints.org/manuscript/202102.0516/v1
 
 ...
 
-## One-Dimensional Convolutional Neural Network (1D-CNN)
+## One-Dimensional Convolutional Neural Network (1DCNN_Example.ipynb)
 
 ...
 
