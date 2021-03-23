@@ -58,4 +58,4 @@ bibTex:
   howpublished = {\url{https://github.com/OscoLP/DeepLearning-RemoteSensing}}
 }
 
-Osco, L.P.; Marques Ramos, A.P. Machine and Deep Learning for Remote Sensing Data. GitHub, GitHub repository, 2021. https://github.com/OscoLP/DeepLearning-RemoteSensing
+Osco, L.P. and Marques Ramos, A.P. Machine and Deep Learning for Remote Sensing Data. GitHub, GitHub repository, 2021. https://github.com/OscoLP/DeepLearning-RemoteSensing
