@@ -15,6 +15,8 @@ Up to this time, the following codes are available for educational purposes.
 
 ## Machine Learning Example (ML_Example.ipynb)
 
+https://github.com/OscoLP/DeepLearning-RemoteSensing/blob/main/ML_Example.ipynb
+
 This code is written to be applied in one-dimensional datasets, with both binary and multilabel characteristics. The example uses a binary type of classification, however, with few modifications it can be adapted to multilabel. The primary idea here is to investigate the performance of traditional shallow learners from the sklearn library. With this code, it is possible to use a spectral type of data measured with proximal sensors.
 
 Figure - Example of a spectral behavior of plants submitted to different insect attacks.
