@@ -48,6 +48,7 @@ https://github.com/OscoLP/DeepLearning-RemoteSensing/blob/main/CNN_1D_Example.ip
 ## How to Cite
 
 bibTex:
+
 @misc{Osco2021GitHub,
   author = {Osco, L.P., Marques Ramos, A.P.},  
   title = {Machine and Deep Learning for Remote Sensing Data},
