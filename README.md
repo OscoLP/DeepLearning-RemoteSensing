@@ -21,7 +21,7 @@ This code is written to be applied in one-dimensional datasets, with both binary
 
 Figure - Example of a spectral behavior of plants submitted to different insect attacks.
 
-<img src="https://user-images.githubusercontent.com/74935945/112156753-4eb16980-8bc5-11eb-8717-4e8fd0b4a65d.png" width="800" height="480">
+<img src="https://user-images.githubusercontent.com/74935945/112156753-4eb16980-8bc5-11eb-8717-4e8fd0b4a65d.png" width="760" height="480">
 
 Source: Furuya et al. (2021), https://www.preprints.org/manuscript/202102.0498/v1
 
