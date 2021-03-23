@@ -5,7 +5,7 @@ Here, we intend to publish easy-to-implement deep neural network codes. These co
 
 Machine learning (ML) and deep neural networks (DNN) are currently being used in a series of applications. In the remote sensing field domain, this type of analysis has been explored in several issues, being it both in spectral, image, photogrammetry, among others, subfields. One of the most important characteristics of the machine and deep learning algorithms in remote sensing data is its capability of dealing with different types of examples, achieving impressive performances, and being useful in generalization approaches.
 
-<img src="https://user-images.githubusercontent.com/74935945/112157409-f038bb00-8bc5-11eb-86d0-b6a2933d2243.png" width="820" height="400">
+<img src="https://user-images.githubusercontent.com/74935945/112157409-f038bb00-8bc5-11eb-86d0-b6a2933d2243.png" width="800" height="400">
 
 Source: Osco et al. (2021), https://arxiv.org/abs/2101.10861
 
